@@ -1,0 +1,59 @@
+<html>
+<head>
+<center><h1>AKHILA.S</h1>
+<h2>mobileno:2345</h2>
+<h2>email.id:vuxyz@gamil.com</h2></center>
+<hr>
+<style>
+table,th,td{
+border:1px solid black;
+</style>
+<style type="text/css">
+.arr
+{
+float: right;
+}
+</style>
+<style>
+body
+{
+background-color:pink;
+}
+</style>
+</head>
+<body>
+<img class="arr" src="C:\Users\ssred\OneDrive\Pictures\akhi.jpg" width=150 height=150> 
+<h3>DATE OF BIRTH:22|04|2004<br>
+<h3>GENDER:Female<br>
+<h3>FATHER'S NAME:Sreenivasa Reddy<br>
+<h3>RELIGION:Hindu<br>
+<h3>NATIONALITY:Indian<br>
+<h3>MARITAL STATUS:Single<br>
+<h3>LANGUAGES KNOWN:Tamil & English<br></h3>
+<h3>EDUCATION DETAILS: </h3>
+<center>
+<table>
+<tr>
+<th>education</th>
+<th>university</th>
+<th>year</th>
+</tr>
+<tr>
+<td>completed 12th</td>
+<td>svsm school</td>
+<td>2021</td>
+</tr>
+<tr>
+<td>B.E CSE</td>
+<td>saveetha school of eng.</td>
+<td>2025</td>
+</tr>
+</table>
+</center>
+<h5>EXPERIENCE:fresher</h5>
+<h5>ADDRESS:qwertyuioasdfghjklzxcvbnm</h5>
+<h5>DECLARATION</h5><p>I am hereby declear that all the above information is true to the best of my knowledge and belief.</p>
+<h5>PLACE:chennai</h5>
+<h5>DATA:1/11/2023</h5>
+</body>
+</html>
