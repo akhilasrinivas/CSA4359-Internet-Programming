@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+   <head>
+         <title>LETTER PAD</title>
+         <style>
+               #a{
+                  margin-top:-170px;
+                 }
+               #b{
+                  margin-top:-170px;
+                 }
+                p{
+                  text-indent:50px;
+                 }
+               #c{
+                  text-indent:40px;
+                 }
+               #d{
+                  text-indent:40px;
+                 }
+         </style>
+   </head>
+        <body>
+             <h1 style="text-align:center"> SAVEETHA SCHOOL OF ENGINEERING </h1>
+             <h5 style="text-align:center"> Saveetha Nagar,Thandalam,Chennai-602105<br>Ph:+91-44-6672662<br> www.saveetha.com </h5><br>
+             <img id="a" align="left" width="150" height="150" src="C:\Users\ssred\OneDrive\Desktop\saveetha.png">
+             <img id="b" align="right" width="155" height="155" src="C:\Users\ssred\OneDrive\Desktop\sse.png">
+             <hr>
+             <h3 style="text-align:center"><u>OD-REQUEST LETTER</u></h3>
+             <h4>From</h4>
+             <p>Akhila.S;</p>
+             <p>IIIrd year(CSE);</p>
+             <p>Saveetha School of Enginnering;</p>
+             <p>Chennai,602105.</p>
+             <h4>To</h4>
+             <p>The Pricipal;</p>
+             <p>IIIrd year(CSE);</p>
+             <p>Saveetha School of Enginnering;</p>
+             <p>Chennai,602105.</p>
+             <h4>Respected Sir,</h4>
+             <p><u>Sub: Requesition letter for OD on 03.11.2023 for "AGNITO AWARDS"</u></p>
+             <p id="c">I am Akhila.S(192110067) from CSE department.As per the college schedule on 03.11.2023,there is a event called "AGNITO AWARDS".</p>
+             <p id="d">I request you to grant my OD permission on that day(03.11.20223).</p>
+             <p><center>Thank You</center></p>
+             <p style="text-align:right">Your's Faithfully,</p>
+             <p style="text-align:right">Akhila.S(CSE)</p>
+        </body>
+</html>
