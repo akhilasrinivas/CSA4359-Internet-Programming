@@ -1,0 +1,58 @@
+<!DOCTYPEhtml>
+<html>
+<head>
+<title>Dropdown Menu Example</title>
+<style>
+select{
+font-style:Tahoma;
+font-size:20px;
+}
+table,th
+{
+border:1px solid black;
+background-color:#96D4D4;
+}
+</style>
+</head>
+<body>
+<h1 align="center">Website Naavigator</h1>
+<hr>
+<table>
+<th>
+<select id="menu">
+<option value="">Select Menu1</option>
+<option value="C:\Users\ssred\OneDrive\Desktop\internet programs\letterpad.html">Letter-pad</option>
+<option value="C:\Users\ssred\OneDrive\Desktop\internet programs\login form.html">Login page</option>
+<option value="C:\Users\ssred\OneDrive\Desktop\internet programs\flag.html">Indian flag</option>
+</select>
+</th>
+<th>
+<select id="menu2">
+<option value="">Select Menu2</option>
+<option value="C:\Users\ssred\OneDrive\Desktop\internet programs\palindrome.html">palindrome</option>
+<option value="C:\Users\ssred\OneDrive\Desktop\internet programs\p1.html">p1</option>
+<option value="C:\Users\ssred\OneDrive\Desktop\internet programs\vowelornot.html">vowelornot</option>
+</select>
+</th>
+</table>
+<hr>
+<script>
+document.getElementById("menu").addEventListener("change",function()
+{
+var x=this.value;
+if(x)
+{
+window.location.href=x;
+}
+});
+document.getElementById("menu2").addEventListener("change",function()
+{
+var x=this.value;
+if(x)
+{
+window.location.href=x;
+}
+});
+</script>
+</body>
+</html>
